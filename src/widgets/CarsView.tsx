@@ -1,8 +1,6 @@
 import Map from "./Map";
 import { FC } from "react";
-import {View} from "react-native";
-import { propsCarView } from "types";
-import getDriver from "utils/getDriver";
+import { propsCarView } from "../types";
 import CarsList from "./CarsList";
 
 const CarView:FC<propsCarView> = ({viewType, cars}) =>{

@@ -5,5 +5,7 @@
     "tabWidth": 2,
     "arrowParens": "avoid",
     "useTabs": true,
-    "trailingComma": "none" 
+    "trailingComma": "all",
+    "endOfLine": "crlf",
+    "printWidth": 100
 }

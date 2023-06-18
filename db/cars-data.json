@@ -1,62 +1,62 @@
 [
     {
         "id": "121",
-        "type": "Грузовой",
-        "location": "",
+        "type": "1",
+        "location": [67.102824, 97.384950],
         "driverID": "10"
     },
     {
         "id": "242",
-        "type": "Грузовой",
-        "location": "",
+        "type": "2",
+        "location": [62.391761, 77.170107],
         "driverID": "9"
     },
     {
         "id": "323",
-        "type": "Грузовой",
-        "location": "",
+        "type": "1",
+        "location": [50.904926, 20.920110],
         "driverID": "8"
     },
     {
         "id": "432",
-        "type": "Пассажирский",
-        "location": "",
+        "type": "2",
+        "location": [35.391498, 78.576357],
         "driverID": "7"
     },
     {
         "id": "21",
-        "type": "Пассажирский",
-        "location": "",
+        "type": "2",
+        "location": [65.257963, 46.232609],
         "driverID": "6"
     },
     {
         "id": "2346",
-        "type": "Пассажирский",
-        "location": "",
+        "type": "1",
+        "location": [61.566003, 47.638859],
         "driverID": "5"
     },
     {
         "id": "724",
-        "type": "Спецтранспорт",
-        "location": "",
+        "type": "3",
+        "location": [57.752678, 48.869327],
         "driverID": "4"
     },
     {
         "id": "324",
-        "type": "Спецтранспорт",
-        "location": "",
+        "type": "3",
+        "location": [56.512674, 60.998233],
         "driverID": "3"
     },
     {
         "id": "12349",
-        "type": "Спецтранспорт",
-        "location": "",
+        "type": "1",
+        "location": [48.168088, 27.072453],
         "driverID": "2"
     },
     {
         "id": "1120",
-        "type": "Спецтранспорт",
-        "location": "",
+        "type": "3",
+        "location": [55.330852, 81.388857],
         "driverID": "1"
     }
 ]

@@ -1,7 +1,7 @@
 export type carT = {
     id: string
-    type: "Грузовой" | "Пассажирский" | "Спецтранспорт" | string
-    location: string
+    type: "грузовой" | "пассажирский" | "спецтранспорт" | string
+    location: number[]
     driverID: driverT['id']
 }
 export type driverT = {
@@ -24,7 +24,7 @@ export interface propsCarShortCard {
 
 export interface propsCarsFilter {
     setCarsTypeFilter: (carType: propsCarsFilter['carsTypeFilter'])=>void
-    carsTypeFilter: carT['type'] | 'all'
+    carsTypeFilter: carT['type'] | 'все'
 }
 
 export interface propsCarsList {
@@ -36,10 +36,16 @@ export interface propsCarView {
 }
 
 export interface propsFilterButton extends propsCarsFilter{
-    label: carT['type']
+    label: string,
+    value: carT['type']
 }
 
 export interface propsContactButton {
     opPress: ()=> void
-    children: string;
+    label: string;
+}
+
+export type filterButtonsT = {
+	label: string
+    value: carT['type']
 }
