@@ -1,0 +1,62 @@
+[
+    {
+        "id": "121",
+        "type": "Грузовой",
+        "location": "",
+        "driverID": "10"
+    },
+    {
+        "id": "242",
+        "type": "Грузовой",
+        "location": "",
+        "driverID": "9"
+    },
+    {
+        "id": "323",
+        "type": "Грузовой",
+        "location": "",
+        "driverID": "8"
+    },
+    {
+        "id": "432",
+        "type": "Пассажирский",
+        "location": "",
+        "driverID": "7"
+    },
+    {
+        "id": "21",
+        "type": "Пассажирский",
+        "location": "",
+        "driverID": "6"
+    },
+    {
+        "id": "2346",
+        "type": "Пассажирский",
+        "location": "",
+        "driverID": "5"
+    },
+    {
+        "id": "724",
+        "type": "Спецтранспорт",
+        "location": "",
+        "driverID": "4"
+    },
+    {
+        "id": "324",
+        "type": "Спецтранспорт",
+        "location": "",
+        "driverID": "3"
+    },
+    {
+        "id": "12349",
+        "type": "Спецтранспорт",
+        "location": "",
+        "driverID": "2"
+    },
+    {
+        "id": "1120",
+        "type": "Спецтранспорт",
+        "location": "",
+        "driverID": "1"
+    }
+]
